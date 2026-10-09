@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "recordedOn": "2026-10-10",
+  "timezone": "Asia/Shanghai",
+  "screenshotConditions": {
+    "loggedIn": false,
+    "viewport": {
+      "width": 1600,
+      "height": 1000
+    },
+    "deviceScaleFactor": 2,
+    "theme": "site dark theme",
+    "comparisonSelectedIds": [
+      "Robot20251111603",
+      "Robot20251111607"
+    ]
+  },
+  "film": {
+    "sourceName": "demo03.mov",
+    "sourceSha256": "0c7e286cb2c2d979ab365a6ac62a9d6e191ccab66cc6793f5f2d271a0b4c2d1d",
+    "sourceRecordingDate": null,
+    "sourceWidth": 3840,
+    "sourceHeight": 2160,
+    "durationSeconds": 59.383333,
+    "webCopyWidth": 1920,
+    "webCopyHeight": 1080,
+    "videoCodec": "h264",
+    "audioCodec": "aac",
+    "previewStartSeconds": 12,
+    "previewDurationSeconds": 8,
+    "previewFramesPerSecond": 8,
+    "originalModified": false
+  },
+  "assets": [
+    {
+      "file": "assets/screenshots/home.webp",
+      "kind": "screenshot",
+      "label": "首页",
+      "sourceUrl": "https://www.aiman.world/",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 195884,
+      "sha256": "19af7a2cda7dd0832f50795c0029db68ba9fdcc74804ab380b556db695c9ce99"
+    },
+    {
+      "file": "assets/screenshots/robots.webp",
+      "kind": "screenshot",
+      "label": "机器人目录",
+      "sourceUrl": "https://www.aiman.world/robots",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 154042,
+      "sha256": "d3ff0799cb928bdadef8bc5f0a3a6e683829ff3753082ad693bc1f3b70d5394d"
+    },
+    {
+      "file": "assets/screenshots/companies.webp",
+      "kind": "screenshot",
+      "label": "企业目录",
+      "sourceUrl": "https://www.aiman.world/companies",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 167982,
+      "sha256": "31c716eb3da9cb13fbe5e57b22fc07fd92cf6a163b7b49a237493a3622a9cf26"
+    },
+    {
+      "file": "assets/screenshots/parts.webp",
+      "kind": "screenshot",
+      "label": "零部件数据库",
+      "sourceUrl": "https://www.aiman.world/parts",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 158458,
+      "sha256": "bac40b257c5b1154821a4ffcb88fe2cf1cf4ed2c4f46aa4ec1e71bc24768a744"
+    },
+    {
+      "file": "assets/screenshots/graph.webp",
+      "kind": "screenshot",
+      "label": "产业图谱",
+      "sourceUrl": "https://www.aiman.world/graph",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 237484,
+      "sha256": "787b6f96f2dfa9b84cd7c39d060e933cca313bc2fadd916216120abebd129e00"
+    },
+    {
+      "file": "assets/screenshots/timeline.webp",
+      "kind": "screenshot",
+      "label": "产业时间线",
+      "sourceUrl": "https://www.aiman.world/timeline",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 149818,
+      "sha256": "40189a8b20ed7f6ccf2c0bfc91aa4cbab25017fe4f1521d5dbde99e3ec7845de"
+    },
+    {
+      "file": "assets/screenshots/robot-detail.webp",
+      "kind": "screenshot",
+      "label": "机器人详情",
+      "sourceUrl": "https://www.aiman.world/robot/g1-2",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 139050,
+      "sha256": "4956f1f08bd3071fbc71186c124743d9a9d70728aa5c70ddcc1a06c977a12b9e"
+    },
+    {
+      "file": "assets/screenshots/company-detail.webp",
+      "kind": "screenshot",
+      "label": "企业详情",
+      "sourceUrl": "https://www.aiman.world/company/%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 180822,
+      "sha256": "bdf9ae1db303aebd2fbd730ea96d88a58a7d9623f25fef78f4b9a91721c30ff6"
+    },
+    {
+      "file": "assets/screenshots/compare.webp",
+      "kind": "screenshot",
+      "label": "参数对比",
+      "sourceUrl": "https://www.aiman.world/compare",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 159916,
+      "sha256": "627cf7f6c12564d472fa7844493965289c0f203ab8ffac7aa53b6ecb927e37c5"
+    },
+    {
+      "file": "assets/screenshots/selection.webp",
+      "kind": "screenshot",
+      "label": "机器人选型",
+      "sourceUrl": "https://www.aiman.world/robot-selection",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 214802,
+      "sha256": "293a5141722d194b6d7b4f38ed4e342d4b978bfa11c07b9151f5a5005ab362a2"
+    },
+    {
+      "file": "assets/screenshots/open-source.webp",
+      "kind": "screenshot",
+      "label": "开源资源",
+      "sourceUrl": "https://www.aiman.world/open-source",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 153038,
+      "sha256": "5f7afcb6ea01fab079d6ee81305948b80da2ba22fef6986e99cf9b006bae68d2"
+    },
+    {
+      "file": "assets/screenshots/blog.webp",
+      "kind": "screenshot",
+      "label": "行业资讯",
+      "sourceUrl": "https://www.aiman.world/blog",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 287136,
+      "sha256": "657c25c359f570ffc49e58280c6d531b12c36e85e87aa17a81a09bf85e1abaa9"
+    },
+    {
+      "file": "assets/screenshots/article.webp",
+      "kind": "screenshot",
+      "label": "文章详情",
+      "sourceUrl": "https://www.aiman.world/blog/robotics-infrastructure-liqing-lingsheng-funding-2026-oct",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 195570,
+      "sha256": "fa5a4de479ebdbeb19550e5c9b83d80d6771cdbe6a5668f0f4f7b1dba3273874"
+    },
+    {
+      "file": "assets/screenshots/goods.webp",
+      "kind": "screenshot",
+      "label": "机器人好物",
+      "sourceUrl": "https://www.aiman.world/goods",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 136540,
+      "sha256": "01abc825341e4b0a4fff9789e44881b958bd42dd8a84392787d9011048c18358"
+    },
+    {
+      "file": "assets/screenshots/beta.webp",
+      "kind": "screenshot",
+      "label": "Beta 专区",
+      "sourceUrl": "https://www.aiman.world/beta",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 146960,
+      "sha256": "1868e38491014e4c0b704f3cd0285f23c40afae0f0581402a3a43f04da099167"
+    },
+    {
+      "file": "assets/screenshots/contribute.webp",
+      "kind": "screenshot",
+      "label": "提交资料与审核",
+      "sourceUrl": "https://www.aiman.world/developers/contribute",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 185872,
+      "sha256": "2b4b8e39e353f39a2c711b7a08c05cef10589ae2732c8aef47252401efdcd3d6"
+    },
+    {
+      "file": "assets/screenshots/developers.webp",
+      "kind": "screenshot",
+      "label": "开发者入口",
+      "sourceUrl": "https://www.aiman.world/developers",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 228148,
+      "sha256": "62515ecf7c7079a68095f00a40c9fe24dc442e2f02a16fe9e3b4da3078ffd8ea"
+    },
+    {
+      "file": "assets/screenshots/methodology.webp",
+      "kind": "screenshot",
+      "label": "事实与证据方法",
+      "sourceUrl": "https://www.aiman.world/methodology",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 172518,
+      "sha256": "4a31e9534d3adc282ec92ed403f786161c1d51e9123bf569595b74b504c5ab9f"
+    },
+    {
+      "file": "assets/screenshots/about.webp",
+      "kind": "screenshot",
+      "label": "关于 AIMAN.World",
+      "sourceUrl": "https://www.aiman.world/about",
+      "capturedOn": "2026-10-10",
+      "width": 3200,
+      "height": 2000,
+      "bytes": 196786,
+      "sha256": "9e58b596c5f2c84efad7fe97c7d1ef853ee84faf5f2ef7f3dfb6cabcfcbbcbaf"
+    },
+    {
+      "file": "assets/video/aiman-world-intro.mp4",
+      "kind": "video",
+      "sourceName": "demo03.mov",
+      "bytes": 15486353,
+      "sha256": "1b227677a4ec4818a4cf01af474240e2d9352d080b877e0918e0e1e56738b9d5"
+    },
+    {
+      "file": "assets/video/poster.jpg",
+      "kind": "video-preview",
+      "sourceName": "demo03.mov",
+      "bytes": 27526,
+      "sha256": "3a8bce44bcf70f0c429a07db9b76ae5d15a0ae40701ec2982cc24a2c29d82133"
+    },
+    {
+      "file": "assets/video/preview.gif",
+      "kind": "video-preview",
+      "sourceName": "demo03.mov",
+      "bytes": 5507909,
+      "sha256": "84e2d1c0c7cebebb0468083ef0f7adeadbf5233911f44a665904452d44d22ce8"
+    },
+    {
+      "file": "assets/logo.svg",
+      "kind": "brand",
+      "source": "AIMAN.World website favicon.svg",
+      "bytes": 351,
+      "sha256": "59ddd26e1534ee95bd2e710b73efffa9f999fa276690a4feccc74030bf7b9354"
+    }
+  ]
+}
