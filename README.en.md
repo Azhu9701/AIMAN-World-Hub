@@ -12,9 +12,9 @@
 
 <a id="film"></a>
 
-<p align="center"><a href="assets/video/aiman-world-intro.mp4"><img src="assets/video/preview.gif" width="1100" alt="AIMAN.World film excerpt showing the robotics industry graph and relationships"></a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Nf6XYuYUlrc"><img src="assets/video/preview.gif" width="1100" alt="AIMAN.World film excerpt showing the robotics industry graph and relationships"></a></p>
 
-<p align="center"><a href="assets/video/aiman-world-intro.mp4"><strong>▶ Full film · 59 seconds</strong></a> · <a href="assets/video/aiman-world-intro.mp4?raw=true">Open / download MP4</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Nf6XYuYUlrc"><strong>▶ Full film on YouTube · 59 seconds</strong></a> · <a href="assets/video/aiman-world-intro.mp4?raw=true">Open / download MP4</a> · <a href="https://www.youtube.com/@AIMAN-World-Hub">YouTube channel</a></p>
 
 **AIMAN is infrastructure that keeps an industry database up to date. Robotics World, known as 聚身之家 in Chinese, is its current public robotics domain.**
 

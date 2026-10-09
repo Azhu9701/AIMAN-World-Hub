@@ -20,10 +20,10 @@
 <a id="film"></a>
 
 <p align="center">
-  <a href="assets/video/aiman-world-intro.mp4"><img src="assets/video/preview.gif" width="1100" alt="AIMAN.World 宣传片片段：机器人产业图谱与关系"></a>
+  <a href="https://www.youtube.com/watch?v=Nf6XYuYUlrc"><img src="assets/video/preview.gif" width="1100" alt="AIMAN.World 宣传片片段：机器人产业图谱与关系"></a>
 </p>
 
-<p align="center"><a href="assets/video/aiman-world-intro.mp4"><strong>▶ 看完整宣传片 · 59 秒</strong></a> · <a href="assets/video/aiman-world-intro.mp4?raw=true">打开 / 下载 MP4</a></p>
+<p align="center"><a href="https://www.youtube.com/watch?v=Nf6XYuYUlrc"><strong>▶ YouTube 完整宣传片 · 59 秒</strong></a> · <a href="assets/video/aiman-world-intro.mp4?raw=true">打开 / 下载 MP4</a> · <a href="https://www.youtube.com/@AIMAN-World-Hub">YouTube 频道</a></p>
 
 **AIMAN 是一套让行业数据库自己持续更新的基础设施。聚身之家是它当前的机器人产业入口。**
 

@@ -29,7 +29,14 @@
     "previewStartSeconds": 12,
     "previewDurationSeconds": 8,
     "previewFramesPerSecond": 8,
-    "originalModified": false
+    "originalModified": false,
+    "youtube": {
+      "url": "https://www.youtube.com/watch?v=Nf6XYuYUlrc",
+      "channelUrl": "https://www.youtube.com/@AIMAN-World-Hub",
+      "publishedOn": "2026-10-10",
+      "visibility": "public",
+      "uploadedOriginal": true
+    }
   },
   "assets": [
     {
