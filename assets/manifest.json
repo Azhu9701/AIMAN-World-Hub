@@ -36,6 +36,20 @@
       "publishedOn": "2026-10-10",
       "visibility": "public",
       "uploadedOriginal": true
+    },
+    "githubAttachment": {
+      "url": "https://github.com/user-attachments/assets/9f8ea78b-3e26-477e-92e7-360043f7a39c",
+      "archiveUrl": "https://github.com/Azhu9701/AIMAN-World-Hub/issues/1",
+      "uploadedOn": "2026-10-10",
+      "sourceAsset": "assets/video/aiman-world-intro.mp4",
+      "durationSeconds": 59.4,
+      "width": 1920,
+      "height": 1080,
+      "framesPerSecond": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "bytes": 5699995,
+      "sha256": "8925467f920ac8453f2ef2149861cae76529a11edc023d670d57b5ef6ac1bd65"
     }
   },
   "assets": [
