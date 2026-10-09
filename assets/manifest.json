@@ -284,11 +284,16 @@
       "sha256": "84e2d1c0c7cebebb0468083ef0f7adeadbf5233911f44a665904452d44d22ce8"
     },
     {
-      "file": "assets/logo.svg",
+      "file": "assets/logo.png",
       "kind": "brand",
-      "source": "AIMAN.World website favicon.svg",
-      "bytes": 351,
-      "sha256": "59ddd26e1534ee95bd2e710b73efffa9f999fa276690a4feccc74030bf7b9354"
+      "source": "User-provided AIMAN logo",
+      "sourceName": "a02ca118-5a2e-45e1-a306-bfdf77964be1.png",
+      "providedOn": "2026-10-10",
+      "width": 622,
+      "height": 614,
+      "originalModified": false,
+      "bytes": 16913,
+      "sha256": "badaad885322ae2aa87bcf780444ef4898a2d6046b7889539e7fbf8e2ded3017"
     }
   ]
 }

@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/logo.svg" width="72" alt="AIMAN.World"></p>
+<p align="center"><img src="assets/logo.png" width="144" alt="AIMAN.World"></p>
 
 <p align="center"><strong>简体中文</strong> · <a href="README.en.md">English</a></p>
 
