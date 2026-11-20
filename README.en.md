@@ -74,6 +74,18 @@ Public contributions enter a review inbox only: `canonicalWrites=false`. A succe
 
 [Data boundaries (Chinese)](docs/data-boundaries.md) · [Methodology (Chinese)](https://www.aiman.world/methodology)
 
+## Sponsors
+
+This repository currently displays a sponsor slot for [Caileme AI Relay](https://ai.caileme.top).
+
+<p align="center">
+  <a href="https://ai.caileme.top">
+    <img src="assets/sponsors/caileme-banner-github-1200x200-sponsor.png" alt="Caileme AI Relay · Stable and practical large-model API" width="1200">
+  </a>
+</p>
+
+Dark / light variants and 2x assets are in [assets/sponsors](assets/sponsors).
+
 ## Feedback
 
 [Open an issue](https://github.com/Azhu9701/AIMAN-World-Hub/issues) with the affected page, the specific discrepancy and supporting sources. Use the website's [contact page](https://www.aiman.world/en/contact) for business inquiries.

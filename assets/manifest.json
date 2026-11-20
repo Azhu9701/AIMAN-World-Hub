@@ -294,6 +294,81 @@
       "originalModified": false,
       "bytes": 16913,
       "sha256": "badaad885322ae2aa87bcf780444ef4898a2d6046b7889539e7fbf8e2ded3017"
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-1200x200-dark.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 46402,
+      "sha256": "c220721b3feaa03a1e1c26327048fd7891fc9dbd3887146a1cae2dce3744f091",
+      "width": 1200,
+      "height": 200
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-1200x200-light.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 46703,
+      "sha256": "90398a8962dafa992ff79d1396bf7bff804255d98a6d1cfa3b1c0b291f9e0de5",
+      "width": 1200,
+      "height": 200
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-1200x200-sponsor.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 51445,
+      "sha256": "a5f5301ab13f3e12a5259eba48cfd358ef6aa20ce83754de5ba159c2e649af9b",
+      "width": 1200,
+      "height": 200
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-2400x400-dark.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 184537,
+      "sha256": "b7571ab79f891837a70042933cba12b18acf99e785224e30993030f026f96362",
+      "width": 2400,
+      "height": 400
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-2400x400-light.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 195345,
+      "sha256": "54a49ebca73a68af164504b083f6b1749aab4b647db9eff2a284c65de07edb13",
+      "width": 2400,
+      "height": 400
+    },
+    {
+      "file": "assets/sponsors/caileme-banner-github-2400x400-sponsor.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 206893,
+      "sha256": "d726215752827eb293958b4e26a789ccfeb0d8dbb6df5e48f9fe5830efc8ddeb",
+      "width": 2400,
+      "height": 400
+    },
+    {
+      "file": "assets/sponsors/logo-mark.png",
+      "kind": "sponsor",
+      "label": "Caileme AI Relay",
+      "sourceUrl": "https://ai.caileme.top",
+      "providedOn": "2026-03-21",
+      "bytes": 23352,
+      "sha256": "8ccee013a46e6ba7b5ed8bf55719ade0c7342e1b929d4f25732fdc2050c51d44"
     }
   ]
 }

@@ -127,6 +127,18 @@ claude mcp add --transport http --scope user aiman-world https://www.aiman.world
 
 [事实与证据方法](https://www.aiman.world/methodology) · [数据与能力边界](docs/data-boundaries.md)
 
+## 赞助
+
+本仓库当前由 [采了么 AI 中转](https://ai.caileme.top) 赞助展示位。
+
+<p align="center">
+  <a href="https://ai.caileme.top">
+    <img src="assets/sponsors/caileme-banner-github-1200x200-sponsor.png" alt="采了么 AI 中转 · 稳定好用的大模型 API" width="1200">
+  </a>
+</p>
+
+更多尺寸与深色 / 浅色版本见 [assets/sponsors](assets/sponsors)。
+
 ## 一起完善
 
 发现错漏，可以在本仓库 [提交 Issue](https://github.com/Azhu9701/AIMAN-World-Hub/issues)，附页面、具体问题和支持材料。产品资料与企业贡献入口见 [提交资料与审核](https://www.aiman.world/developers/contribute)；商务咨询见 [联系方式](https://www.aiman.world/contact)。
